@@ -87,7 +87,7 @@ let webDevDiv = document.querySelector(".webDevCards")
     "In this project we had to implement an existing javascript feature called 'baguetteBox'.I also wrote Javascript code to make a custom search bar.", 
     "Screenshot of Photo gallery project", "Photo gallery project");
     
-    createCard(webDevCards,["HTML", "CSS", "Javascript"], "wheelofsucces.PNG", 
+    createCard(webDevCards,["HTML", "CSS", "Javascript"], "wheelofsuccess.PNG", 
     "https://PakChiTang.github.io/techdegreeproject6/",
     "For this project I used Javascript to build a working guessing game, called Wheel of Succes",
     "Screenshot of Wheel of Success project", "Wheel of Success");
