@@ -1,3 +1,4 @@
+
 //create socials 
 const socialSection = document.querySelector(".socials");
 const socialList = ["instagram", "linkedin", "twitter"];
@@ -46,6 +47,7 @@ function createImageWithUrlButton(url, img, alt){
     image =
     `
     <img src="images/${img}" alt="${alt}">
+    
     <a class="project-button "href="${url}"  target="_blank">See Project     
     </a>
             
