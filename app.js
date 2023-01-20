@@ -89,7 +89,7 @@ let webDevDiv = document.querySelector(".webDevCards")
     
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "wheelofsuccess.PNG", 
     "https://PakChiTang.github.io/techdegreeproject6/",
-    "For this project I used Javascript to build a working guessing game, called Wheel of Succes",
+    "For this project I used Javascript to build a working guessing game, called Wheel of Success",
     "Screenshot of Wheel of Success project", "Wheel of Success");
     
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "webapp.PNG", 
