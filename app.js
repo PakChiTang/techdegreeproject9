@@ -47,7 +47,7 @@ function createImageWithUrlButton(url, img, alt){
     image =
     `
     <img src="images/${img}" alt="${alt}">
-    
+
     <a class="project-button "href="${url}"  target="_blank">See Project     
     </a>
             
@@ -73,32 +73,32 @@ let webDevDiv = document.querySelector(".webDevCards")
 
 
     createCard(webDevCards, ["HTML", "CSS"], "responsive.PNG", 
-    "https://github.com/PakChiTang/techdegreeproject2", 
+    "https://PakChiTang.github.io/mytechdegreeproject2/", 
     "Using CSS and media queries, I made a site that is responsive for three different screen sizes (mobile, tablet and desktop).", 
     "Screenshot of Responsive design project", "Responsive design project");
 
     createCard(webDevCards, ["CSS", "SASS"], "sass.PNG", 
-    "https://github.com/PakChiTang/techdegreeproject4", 
+    "https://PakChiTang.github.io/Techdegreeproject4/", 
     "Using Sass to create an awesome styled site", 
     "Screenshot of Sass Styling project", "Sass styling project");
     
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "photogallery.PNG", 
-    "https://github.com/PakChiTang/techdegreeproject5", 
+    "https://PakChiTang.github.io/techdegreeproject5/", 
     "In this project we had to implement an existing javascript feature called 'baguetteBox'.I also wrote Javascript code to make a custom search bar.", 
     "Screenshot of Photo gallery project", "Photo gallery project");
     
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "wheelofsucces.PNG", 
-    "https://github.com/PakChiTang/techdegreeproject6",
+    "https://PakChiTang.github.io/techdegreeproject6/",
     "For this project I used Javascript to build a working guessing game, called Wheel of Succes",
     "Screenshot of Wheel of Success project", "Wheel of Success");
     
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "webapp.PNG", 
-    "https://github.com/PakChiTang/techdegreeproject7/", 
+    "https://PakChiTang.github.io/techdegreeproject7/", 
     "Writing lots of CSS and using Javascript to make the page function like a dashboard", 
     "screenshot of the WebApp project", "WebApp project"); 
 
     createCard(webDevCards,["HTML", "CSS", "Javascript"], "startuplibrary.PNG", 
-    "https://github.com/PakChiTang/techdegreeproject8/", 
+    "https://PakChiTang.github.io/techdegreeproject8/", 
     "I made this employee directory with Javascript. The directory is filled with random users, which are fetched from an API, and then displayed on the site. ", 
     "screenshot of the API project", "Using an API to build a page"); 
     
