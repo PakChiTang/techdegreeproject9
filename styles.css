@@ -21,7 +21,7 @@ body{
 /* header styling */
 header{
     grid-area: header;
-    background-image: url(maggiefeet.jpeg);
+    background-image: url(../images/Penguins.png);
     background-size: cover;
     background-position: center;
     text-align: center;
