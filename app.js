@@ -72,7 +72,7 @@ let webDevCards = [];
 let webDevDiv = document.querySelector(".webDevCards")
 
 
-    createCard(webDevCards, ["HTML", "CSS"], "responsive.PNG", 
+    createCard(webDevCards, ["HTML", "CSS"], "responsive-website_desktop1024 copy.png", 
     "https://PakChiTang.github.io/mytechdegreeproject2/", 
     "Using CSS and media queries, I made a site that is responsive for three different screen sizes (mobile, tablet and desktop).", 
     "Screenshot of Responsive design project", "Responsive design project");
