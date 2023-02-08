@@ -97,7 +97,7 @@ let webDevDiv = document.querySelector(".webDevCards")
     "Writing lots of CSS and using Javascript to make the page function like a dashboard", 
     "screenshot of the WebApp project", "WebApp project"); 
 
-    createCard(webDevCards,["HTML", "CSS", "Javascript"], "startuplibrary.PNG", 
+    createCard(webDevCards,["HTML", "CSS", "Javascript"], "employee_directory copy.PNG", 
     "https://PakChiTang.github.io/techdegreeproject8/", 
     "I made this employee directory with Javascript. The directory is filled with random users, which are fetched from an API, and then displayed on the site. ", 
     "screenshot of the API project", "Using an API to build a page"); 
