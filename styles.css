@@ -21,7 +21,7 @@ body{
 /* header styling */
 header{
     grid-area: header;
-    background-image: url(images/Snowmonkey.png);
+    background-image: url(images/dog.jpeg);
     background-size: cover;
     background-position: center;
     text-align: center;
