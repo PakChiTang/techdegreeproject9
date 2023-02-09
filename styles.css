@@ -260,7 +260,7 @@ section h2{
  
 .webDevCards{
     margin: auto;
-    max-width: 1000px;
+    max-width: 999px;
 }
 header{
     background-position-y: 550px;
