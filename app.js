@@ -82,7 +82,7 @@ let webDevDiv = document.querySelector(".webDevCards")
     "Using Sass to create an awesome styled site", 
     "Screenshot of Sass Styling project", "Sass styling project");
     
-    createCard(webDevCards,["HTML", "CSS", "Javascript"], "photogallery.PNG", 
+    createCard(webDevCards,["HTML", "CSS", "Javascript"], "gallery_mockup copy.png", 
     "https://PakChiTang.github.io/techdegreeproject5/", 
     "In this project we had to implement an existing javascript feature called 'baguetteBox'.I also wrote Javascript code to make a custom search bar.", 
     "Screenshot of Photo gallery project", "Photo gallery project");
